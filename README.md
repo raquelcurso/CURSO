@@ -1,4 +1,4 @@
-## Psychological diagnostic assistant.
+## Psychological diagnostic assistant.AI
 Building AI course project
 ## Summary
 It is about having an artificial intelligence system that helps in psychological diagnosis. But not through tests, as was usually done, but through cameras that analyze the patient's expressions while he/she explains his/her problem and talk to the psychologist.
