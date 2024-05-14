@@ -1,4 +1,4 @@
-## Psycological assitant. AI
+# Psycological assitant. AI
 Psycological assistant. 
 Final project for the Building AI course
 ## Summary
