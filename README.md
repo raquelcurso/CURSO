@@ -1,6 +1,6 @@
 ## Psycological assitant. AI
 Psycological assistant. 
-Building AI course project
+Final project for the Building AI course project
 ## Summary
 It is about having an artificial intelligence system that helps in psychological diagnosis. But not through tests, as was usually done, but through cameras that analyze the patient's expressions while he/she explains his/her problem and talk to the psychologist.
 Building AI course project
